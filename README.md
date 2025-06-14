@@ -1,2 +1,1 @@
-Getting Started
-- Clone this repository
+- Start coding on this branch!
