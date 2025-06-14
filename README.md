@@ -1,4 +1,5 @@
-Getting Started
-- Clone this repository
--Review the code carafully.
-
+# This is a project to learn Git basics.
+# ## Getting Started
+# - Clone this repository
+# - Review the code carefully.
+# - Start coding on this branch!
